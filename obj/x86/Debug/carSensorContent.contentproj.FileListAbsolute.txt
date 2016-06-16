@@ -1,0 +1,4 @@
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asus\Desktop\carSensor\carSensor\carSensorContent\obj\x86\Debug\carSensorContent.contentprojResolveAssemblyReference.cache
+D:\carSensor\carSensor\carSensorContent\obj\x86\Debug\carSensorContent.contentprojResolveAssemblyReference.cache
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensorContent\obj\x86\Debug\carSensorContent.contentprojResolveAssemblyReference.cache
