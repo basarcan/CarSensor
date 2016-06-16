@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>car.png</Source>
+      <Name>car</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\car.xnb</Output>
+      <Time>2015-11-15T23:47:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>block.png</Source>
+      <Name>block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\block.xnb</Output>
+      <Time>2015-11-19T13:06:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>wave1.png</Source>
+      <Name>wave1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave1.xnb</Output>
+      <Time>2015-11-16T13:12:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>wave2.png</Source>
+      <Name>wave2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave2.xnb</Output>
+      <Time>2015-11-16T13:23:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>wave3.png</Source>
+      <Name>wave3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave3.xnb</Output>
+      <Time>2015-11-16T13:24:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>waveBack1.png</Source>
+      <Name>waveBack1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack1.xnb</Output>
+      <Time>2015-11-19T13:27:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>waveBack2.png</Source>
+      <Name>waveBack2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack2.xnb</Output>
+      <Time>2015-11-19T13:27:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>waveBack3.png</Source>
+      <Name>waveBack3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack3.xnb</Output>
+      <Time>2015-11-19T13:27:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bip.wav</Source>
+      <Name>bip</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\bip.xnb</Output>
+      <Time>2015-11-19T13:52:38+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8878E9FC-00C0-46B4-80DA-653E8A2E73B7}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-01-25T02:04:33.4670727+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

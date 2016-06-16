@@ -1,0 +1,60 @@
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\bin\x86\Debug\carSensor.exe
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\bin\x86\Debug\carSensor.pdb
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\obj\x86\Debug\carSensor.exe
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\obj\x86\Debug\carSensor.pdb
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\bin\x86\Debug\Content\car.xnb
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\bin\x86\Debug\Content\block.xnb
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave1.xnb
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave2.xnb
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave3.xnb
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack1.xnb
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack2.xnb
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack3.xnb
+C:\Users\Cavit\documents\visual studio 2010\Projects\carSensor\carSensor\carSensor\bin\x86\Debug\Content\bip.xnb
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\bin\x86\Debug\Content\car.xnb
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\bin\x86\Debug\Content\block.xnb
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave1.xnb
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave2.xnb
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave3.xnb
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack1.xnb
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack2.xnb
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack3.xnb
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\bin\x86\Debug\Content\bip.xnb
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\bin\x86\Debug\carSensor.exe
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\bin\x86\Debug\carSensor.pdb
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\obj\x86\Debug\carSensor.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\obj\x86\Debug\carSensor.exe
+C:\Users\asus\Desktop\carSensor\carSensor\carSensor\obj\x86\Debug\carSensor.pdb
+D:\carSensor\carSensor\carSensor\bin\x86\Debug\Content\car.xnb
+D:\carSensor\carSensor\carSensor\bin\x86\Debug\Content\block.xnb
+D:\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave1.xnb
+D:\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave2.xnb
+D:\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave3.xnb
+D:\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack1.xnb
+D:\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack2.xnb
+D:\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack3.xnb
+D:\carSensor\carSensor\carSensor\bin\x86\Debug\Content\bip.xnb
+D:\carSensor\carSensor\carSensor\bin\x86\Debug\carSensor.exe
+D:\carSensor\carSensor\carSensor\bin\x86\Debug\carSensor.pdb
+D:\carSensor\carSensor\carSensor\obj\x86\Debug\carSensor.csprojResolveAssemblyReference.cache
+D:\carSensor\carSensor\carSensor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\carSensor\carSensor\carSensor\obj\x86\Debug\carSensor.exe
+D:\carSensor\carSensor\carSensor\obj\x86\Debug\carSensor.pdb
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\car.xnb
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\block.xnb
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave1.xnb
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave2.xnb
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\wave3.xnb
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack1.xnb
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack2.xnb
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\waveBack3.xnb
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\Content\bip.xnb
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\carSensor.exe
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\bin\x86\Debug\carSensor.pdb
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\obj\x86\Debug\carSensor.csprojResolveAssemblyReference.cache
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\obj\x86\Debug\carSensor.exe
+C:\Users\CavitCan\Desktop\Format İçin Saklanacaklar\Robotic C# ve Arduino kodları\carSensor\carSensor\carSensor\obj\x86\Debug\carSensor.pdb
